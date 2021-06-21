@@ -1,0 +1,13 @@
+/outputGotten.txt
+/nimcache
+/testresults
+
+/examples/*
+!/examples/*.nim
+
+/src/*
+!/src/**/*.nim
+
+/tests/*
+!/tests/styles
+!/tests/*.nim
